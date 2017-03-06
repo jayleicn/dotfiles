@@ -1,7 +1,8 @@
 # @jayleicn
 
 # Project-related   #
-#./results/*
+results/
+tmp/
 
 # compiled files #
 *.pyc
@@ -24,6 +25,7 @@
 *.log
 *.sql
 *.sqlite
+.ipynb_checkpoints/
 
 # OS generated files #
 ######################
