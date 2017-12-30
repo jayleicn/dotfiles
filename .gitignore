@@ -26,6 +26,7 @@ tmp/
 *.sql
 *.sqlite
 .ipynb_checkpoints/
+.vscode/
 
 # OS generated files #
 ######################
